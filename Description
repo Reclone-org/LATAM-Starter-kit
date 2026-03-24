@@ -1,34 +1,56 @@
 LATAM – Starter kit
 
-OpenVent_mCherry
-Validated more than 15 times in Cellular Reagents as well as purified version
-Sequence: https://benchling.com/s/seq-vVG2qRTNnizBjAqjASl7?m=slm-HuJg1FgmhS9ixn9fuBYX
+OpenVent_mCherry (pTI):
+Works both for Cellular Reagents and as purified enzyme. 
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Kanamycin.
 
-Taq*
+Taq* (pET28):
 Used in Cerda et al 2021, it comes from Graham et al. 2021. Also available in Addgene (Addgene plasmid # 166944; http://n2t.net/addgene:166944 and https://gitlab.com/tjian-darzacq-lab/bearmix  
 Protocol: https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-q26g78ew8lwz/v1 
-Sequence: https://benchling.com/s/seq-38jkFJoGrJh7AyriJlbT?m=slm-glrG9KIdgc0rP9fYcwU6
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Kanamycin.
 
-oMMLV (Superscript)
-Tried  in  C41, pLysS y BL21, but i didn´t produce much protein. We have successfully used pET19_MMLV from our paper Matute et al., 2021 
-Sequence: https://benchling.com/fernanfederici/f/lib_PdS1Nifz-public_seq_paper_dont_delete/seq_rNFedbX5-pet-19b_mmlv-rt/edit 
+oMMLV (Superscript) (pET19-b):
+Tried  in  C41, pLysS y BL21, but i didn´t produce much protein. Successfully used pET19_MMLV from Matute et al., 2021 
 Protocol: https://www.protocols.io/view/recombinant-expression-and-purification-of-codon-o-8epv515wdl1b/v2 
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Ampicillin. 
 
-HIV-RT
-Chile: we cloned it in pTI and tested it successfully in E. coli strains C41(DE3) and BL21(DE3) (unpub. But we got a lot of data) 
-Sequence: https://benchling.com/s/seq-uOxGwFvRNDC3clZWKTN7?m=slm-c172yerw3Qpsg3E1jl23
+Bst-LF (pTI):
+Successfully used in several DE3 expression strains, including BL21(DE3) and pLysS:
+Protocol: https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-ewov14j8yvr2/v1
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Kanamycin. 
 
-Pfu Sso7d
+HIV-RT (pTI):
+Tested it successfully in E. coli strains C41(DE3) and BL21(DE3) (unpub. But we got a lot of data) 
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Kanamycin.
+
+Pfu Sso7d (pET28):
 Used in Cerda et al 2021, and got it from Dr. Alexander Klenov at York University.
 Protocol: https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-j8nlke17dl5r/v2 
-Sequence: https://benchling.com/s/seq-2TcUPjO2uMbDG5ufTQN4/edit 
+Expression is regulated by promotor T7 and Lac operator.
+Resistance: Kanamycin.
 
-fuGFP_HisTag
-Chile: T7_LacO_His_fuGFP
-https://benchling.com/s/seq-LrxeArT0xKu2SoicJrlr?m=slm-8fAgvUuHHhHNbBgGNpUT
+fuGFP_HisTag (pTI):
+Assembled for purification: His-tag upstream the N-terminal region of fuGFP.
+Expression is regulated by promotor T7 and Lac operator. 
+Resistance: Kanamycin.
 
-Scarlet in pTI: J23101_B0034_mScarlet-I_3xStop_B0015
+mScarlet-I (pTI): 
+Assembled for constitutive expression using the native machinery of E.coli. 
+Constitutive J23101 promotor. No his-tag.
+Resistance: Kanamycin.
 
-MScarlet-I_HisTag (T7) :pT7_LacO_BCD2_6xHisTag_mScarlet-I_3xStop_Tz https://benchling.com/s/seq-xJgfWqNRYWO3HSykM4LG?m=slm-nmujf0KDSJYZSHEuv51G  
+MScarlet-I_HisTag (pTI):
+Assembled for purification: His-tag upstream the N-terminal region of fuGFP.
+Expression is regulated by promotor T7 and Lac operator. 
+Resistance: Kanamycin.
 
-SfGFP (constitutivo): J23101_B0034_sfGFP_B0015
+
+sfGFP (pTI):
+Assembled for constitutive expression using the native machinery of E.coli. 
+Constitutive J23101 promotor. No his-tag.
+Resistance: Kanamycin.
