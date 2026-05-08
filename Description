@@ -11,11 +11,11 @@ Protocol: https://www.protocols.io/view/recombinant-protein-expression-and-purif
 Expression is regulated by promotor T7 and Lac operator.
 Resistance: Kanamycin.
 
-oMMLV (Superscript) (pET19-b):
+oMMLV (Superscript) (pTI):
 Tried  in  C41, pLysS y BL21, but i didn´t produce much protein. Successfully used pET19_MMLV from Matute et al., 2021 
 Protocol: https://www.protocols.io/view/recombinant-expression-and-purification-of-codon-o-8epv515wdl1b/v2 
 Expression is regulated by promotor T7 and Lac operator.
-Resistance: Ampicillin. 
+Resistance: Kanamycin. 
 
 Bst-LF (pTI):
 Successfully used in several DE3 expression strains, including BL21(DE3) and pLysS:
