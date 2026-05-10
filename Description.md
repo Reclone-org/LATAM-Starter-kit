@@ -6,11 +6,11 @@
 
 <span style="color: #EA5D5D;">
 
-## Quick Reference Table
+## The starter kit at a glance
 
 </span>
 
-| Plasmid Name | Vector | Promoter | His-tag | Resistance |
+| Plasmid Name | Backbone | Promoter | His-tag | Resistance |
 |--------------|--------|----------|---------|------------|
 | OpenVent_mCherry | pTI | pT7_LacO | ✓ | Kanamycin |
 | Taq* | pET28 | pT7_LacO | ✓ | Kanamycin |
