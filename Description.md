@@ -4,7 +4,11 @@
 
 </span>
 
+<span style="color: #EA5D5D;">
+
 ## Quick Reference Table
+
+</span>
 
 | Plasmid Name | Vector | Promoter | His-tag | Resistance |
 |--------------|--------|----------|---------|------------|
@@ -35,7 +39,7 @@
 
 Works both for Cellular Reagents and as purified enzyme. 
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
@@ -48,11 +52,11 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 </span>
 
-Used in Cerda et al 2021, it comes from Graham et al. 2021. Also available in Addgene (Addgene plasmid # 166944; <span style="color: #263B7F;">[http://n2t.net/addgene:166944](http://n2t.net/addgene:166944)</span> and [https://gitlab.[...]
+Used in Cerda et al 2021, it comes from Graham et al. 2021. Also available in Addgene (Addgene plasmid # 166944; <span style="color: #263B7F;">[http://n2t.net/addgene:166944](http://n2t.net/addgene:166944)</span>).
 
 <span style="color: #263B7F;">[Purification protocol](https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-q26g78ew8lwz/v1)</span>
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
@@ -69,7 +73,7 @@ Tried in C41, pLysS and BL21, but didn't produce much protein. Successfully used
 
 <span style="color: #263B7F;">[Purification protocol](https://www.protocols.io/view/recombinant-expression-and-purification-of-codon-o-8epv515wdl1b/v2)</span>
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
@@ -86,7 +90,7 @@ Successfully used in several DE3 expression strains, including BL21(DE3) and pLy
 
 <span style="color: #263B7F;">[Purification protocol](https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-ewov14j8yvr2/v1)</span>
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
@@ -101,7 +105,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 Tested successfully in E. coli strains C41(DE3) and BL21(DE3) (unpublished, but we have substantial data).
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
@@ -118,7 +122,7 @@ Used in Cerda et al 2021, obtained from Dr. Alexander Klenov at York University.
 
 <span style="color: #263B7F;">[Purification protocol](https://www.protocols.io/view/recombinant-protein-expression-and-purification-of-j8nlke17dl5r/v2)</span>
 
-Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification.
+Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> and <span style="color: #263B7F;">**Lac operator**</span>. <span style="color: #263B7F;">**His-tag included**</span> for purification using Ni-NTA columns.
 
 <span style="color: #263B7F;">**Resistance:**</span> Kanamycin.
 
