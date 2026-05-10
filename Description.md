@@ -1,5 +1,24 @@
 # LATAM – Starter Kit
 
+## Quick Reference Table
+
+| Plasmid Name | Vector | Promoter | His-tag | Resistance |
+|--------------|--------|----------|---------|------------|
+| OpenVent_mCherry | pTI | pT7_LacO | ✓ | Kanamycin |
+| Taq* | pET28 | pT7_LacO | ✓ | Kanamycin |
+| oMMLV (Superscript) | pTI | pT7_LacO | ✓ | Kanamycin |
+| Bst-LF | pTI | pT7_LacO | ✓ | Kanamycin |
+| HIV-RT | pTI | pT7_LacO | ✓ | Kanamycin |
+| Pfu_Sso7d | pET28 | pT7_LacO | ✓ | Kanamycin |
+| fuGFP_HisTag | pTI | pT7_LacO | ✓ | Kanamycin |
+| mScarlet-I | pTI | J23101 | ✗ | Kanamycin |
+| mScarlet-I_HisTag | pTI | pT7_LacO | ✓ | Kanamycin |
+| sfGFP | pTI | J23101 | ✗ | Kanamycin |
+
+---
+
+## Detailed Plasmid Information
+
 ## pT7_LacO_OpenVent_mCherry (pTI)
 
 Works both for Cellular Reagents and as purified enzyme. 
