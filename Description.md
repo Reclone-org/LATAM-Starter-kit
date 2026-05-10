@@ -33,7 +33,7 @@
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_OpenVent_mCherry (pTI)
+### pT7_LacO_OpenVent_mCherry (pTI)
 
 </span>
 
@@ -48,7 +48,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_Taq* (pET28)
+### pT7_LacO_Taq* (pET28)
 
 </span>
 
@@ -65,7 +65,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_oMMLV (Superscript) (pTI)
+### pT7_LacO_oMMLV (Superscript) (pTI)
 
 </span>
 
@@ -82,7 +82,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_Bst-LF (pTI)
+### pT7_LacO_Bst-LF (pTI)
 
 </span>
 
@@ -99,7 +99,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_HIV-RT (pTI)
+### pT7_LacO_HIV-RT (pTI)
 
 </span>
 
@@ -114,7 +114,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_Pfu_Sso7d (pET28)
+### pT7_LacO_Pfu_Sso7d (pET28)
 
 </span>
 
@@ -131,7 +131,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_fuGFP_HisTag (pTI)
+### pT7_LacO_fuGFP_HisTag (pTI)
 
 </span>
 
@@ -146,7 +146,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## J23101_mScarlet-I (pTI)
+### J23101_mScarlet-I (pTI)
 
 </span>
 
@@ -161,7 +161,7 @@ Assembled for constitutive expression using the native machinery of E. coli.
 
 <span style="color: #EA5D5D;">
 
-## pT7_LacO_mScarlet-I_HisTag (pTI)
+### pT7_LacO_mScarlet-I_HisTag (pTI)
 
 </span>
 
@@ -176,7 +176,7 @@ Expression is regulated by <span style="color: #263B7F;">**promoter T7**</span> 
 
 <span style="color: #EA5D5D;">
 
-## J23101_sfGFP (pTI)
+### J23101_sfGFP (pTI)
 
 </span>
 
